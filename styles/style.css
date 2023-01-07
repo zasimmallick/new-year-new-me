@@ -37,7 +37,7 @@ p{
     font-size: 16px;
 }
 
-/* background-image: linear-gradient(rgba(34, 71, 192, 0.836),rgb(138, 124, 97));*/
+
 
 
 
@@ -127,7 +127,8 @@ h2{
     margin: 5px;
   }
 
-  /* Fourth section- */
+  /* Fourth section- start */
+
   #web-dev{
     border-left: 7px solid;
     border-image: linear-gradient(blue,cyan);
@@ -155,12 +156,34 @@ h2{
     border-radius: 10px;
     box-shadow: 10px 10px 40px rgb(83, 197, 83);
   }
- /* Fifth section  */
+ /* Fourth section- end */
 
- 
+ /* Fifth section start  */
 
+.linear-gradient{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10%;
+}
+.watch-img{
+    
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 3221.96px;
+    
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+#h2-white{
+    color: #FFFFFF;
+}
 
-/* footer section */
+/* Fifth section end  */
+
+/* footer section start */
 
 .flexible-footer{
     display: flex;
@@ -218,3 +241,5 @@ h2{
     border-radius: 5px;
    margin-top: 50px; 
   }
+
+  /* footer section end */
