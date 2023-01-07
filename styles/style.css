@@ -7,7 +7,7 @@
 
 
 ----- 
-/* First section */
+/* First section start */
 ------
 .banner-img{
     position: absolute;
@@ -38,9 +38,6 @@ p{
 }
 
 
-
-
-
 .link-button{
     text-decoration: none;
     width: 160px;
@@ -55,7 +52,10 @@ p{
     margin-top: 50px;
   }
 
-   /* second section */
+  /* First section end*/
+
+
+   /* second section start */
 
    .flexible-container{
     display: flex;
@@ -96,7 +96,10 @@ h2{
     font-size: 40px;
 }
 
-/* Third section */
+   /* second section end */
+
+
+/* Third section start */
 
 .my-mission{
   text-align: center;
@@ -126,6 +129,8 @@ h2{
     color: #737272;
     margin: 5px;
   }
+
+  /* Third section  end */
 
   /* Fourth section- start */
 
@@ -165,6 +170,7 @@ h2{
     border-radius: 8px;
     padding: 10px;
     margin: 10%;
+    height: 250px;
 }
 .watch-img{
     
