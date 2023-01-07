@@ -56,7 +56,7 @@ p{
   }
 
    /* second section */
-   
+
    .flexible-container{
     display: flex;
     margin-bottom: 120px;
@@ -98,3 +98,33 @@ h2{
 
 /* Third section */
 
+.my-mission{
+  text-align: center;
+  color: rgb(168, 13, 13);
+}
+.mission-color{
+  color: black;
+}
+
+.experience-item{
+   
+    margin-left: 5%;
+    margin-right: 5%;
+  width: 1141px;
+  height: 306px;
+  left: 230px;
+  top: 1792.3px;
+    
+  }
+
+  .img-pic{
+    width: 40%; 
+    padding-left: 10%;
+  }
+
+  #p-color{
+    color: #737272;
+    margin: 5px;
+  }
+
+  /* Fourth section- */
