@@ -7,7 +7,7 @@
 
 
 ----- 
-/* first-container */
+/* First section */
 ------
 .banner-img{
     position: absolute;
@@ -21,6 +21,7 @@
     height: 228px;
     left: 845px;
     top: 216px;
+    text-align: right;
    
 }
 
@@ -54,4 +55,46 @@ p{
     margin-top: 50px;
   }
 
-   /* second-container */
+   /* second section */
+   
+   .flexible-container{
+    display: flex;
+    margin-bottom: 120px;
+    margin-top: 80px;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  .second-part{
+    width: 1072px;
+   height: 723.3px;
+   left: 206px;
+   top: 939px;
+  }
+  
+.half-width{width: 50%;
+    padding-left: 5%;
+  }
+   .half-width img{
+   width: 500px;
+   height: 500px;
+   left: 500px;
+   right: 500px;
+   top: 2500px;
+    border-radius: 20px;
+  } 
+.p-black{
+    margin-top: 30px;
+}
+
+#color-black{
+    color: black;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/* Third section */
+
